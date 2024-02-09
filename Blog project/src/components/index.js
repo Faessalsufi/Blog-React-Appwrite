@@ -5,5 +5,5 @@ import Logo from "./Logo";
 import Button from "./Button";
 import Select from "./Select";
 import Input from "./Input";
-
-export { Header, Footer, Container, Logo, Button, Input, Select };
+import RTE from "./RTE";
+export { Header, Footer, Container, Logo, Button, Input, Select, RTE };
